@@ -1,7 +1,7 @@
 <h1 align="center">Landing Page</h1>
 
 <h2>Descrição:</h2>
-<p>A proposta do projeto é montar uma Landing Page apenas com os conhecimentos do curso do Professor <strong>Luiz Otávio</strong> com HTML5 e CSS3.</p><br>
+<p>A proposta do projeto é montar uma Landing Page apenas com os conhecimentos de HTML5 e CSS3.</p><br>
 
 <h3>Ferramentas utilizadas</h3>
 <div style="display: inline_block"></br>

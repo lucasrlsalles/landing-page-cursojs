@@ -7,12 +7,13 @@
 
 .white-background {
     background: var(--white-color);
+    color: var(--primary-color);
 }
 
 .main-content {
     max-width: 120rem; /* Largura Máxima do Site é de 1200px */
     margin: 0 auto;
-    padding: var(--gap);
+    padding: 10rem var(--gap);
 }
 
 .section {
